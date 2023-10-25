@@ -1,1 +1,0 @@
-/usr/bin/cc --coverage -g -rdynamic CMakeFiles/minimal.dir/tests/minimal.c.o -o minimal  ../_x11/libeibase64.a -L/user/4/aillas/project_c_sms/projet_c-7.0/_x11 -lfreeimage -lSDL2 -lSDL2_ttf -lSDL2_gfx -lm 

@@ -1,1 +1,0 @@
-/usr/bin/cc --coverage -g -rdynamic CMakeFiles/button.dir/tests/button.c.o -o button  libei.a ../_x11/libeibase64.a -L/user/4/aillas/project_c_sms/projet_c-7.0/_x11 -lfreeimage -lSDL2 -lSDL2_ttf -lSDL2_gfx -lm 
