@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ProjetC_IG"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="button">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/button" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 button"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="button/fast">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/button" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 button/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="frame">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/frame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 frame"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="frame/fast">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/frame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 frame/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minimal">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/minimal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 minimal"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minimal/fast">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/minimal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 minimal/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ei">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/libei.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ei"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ei/fast">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/libei.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ei/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="doc">
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 doc"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_world">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/hello_world" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 hello_world"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello_world/fast">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/hello_world" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 hello_world/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="two048">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/two048" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 two048"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="two048/fast">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/two048" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 two048/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="puzzle">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/puzzle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 puzzle"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="puzzle/fast">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/puzzle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 puzzle/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minesweeper">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/minesweeper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 minesweeper"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minesweeper/fast">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/minesweeper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 minesweeper/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="parsing">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/parsing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 parsing"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="parsing/fast">
+				<Option output="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/parsing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/4/aillas/project_c_sms/projet_c-7.0/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 parsing/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/user/4/aillas/project_c_sms/projet_c-7.0/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/src/ei_application.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/src/ei_event.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/src/ei_frame.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/src/ei_geometrymanager.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/src/ei_widget.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/src/ei_widgetclass.c">
+			<Option target="ei"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/tests/button.c">
+			<Option target="button"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/tests/frame.c">
+			<Option target="frame"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/tests/hello_world.c">
+			<Option target="hello_world"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/tests/minesweeper.c">
+			<Option target="minesweeper"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/tests/minimal.c">
+			<Option target="minimal"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/tests/parsing.c">
+			<Option target="parsing"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/tests/puzzle.c">
+			<Option target="puzzle"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/tests/two048.c">
+			<Option target="two048"/>
+		</Unit>
+		<Unit filename="/user/4/aillas/project_c_sms/projet_c-7.0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

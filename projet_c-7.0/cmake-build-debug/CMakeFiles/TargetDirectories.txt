@@ -1,0 +1,12 @@
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/ei.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/minimal.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/frame.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/button.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/hello_world.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/puzzle.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/two048.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/minesweeper.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/parsing.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/doc.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/morad/Téléchargements/project_c_sms_lastver/projet_c-7.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

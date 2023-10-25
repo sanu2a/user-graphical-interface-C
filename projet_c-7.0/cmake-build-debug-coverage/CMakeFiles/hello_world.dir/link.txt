@@ -1,0 +1,1 @@
+/usr/bin/cc --coverage -g -rdynamic CMakeFiles/hello_world.dir/tests/hello_world.c.o -o hello_world  libei.a ../_x11/libeibase64.a -L/user/4/aillas/project_c_sms/projet_c-7.0/_x11 -lfreeimage -lSDL2 -lSDL2_ttf -lSDL2_gfx -lm 

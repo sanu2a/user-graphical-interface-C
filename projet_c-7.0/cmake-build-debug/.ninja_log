@@ -1,0 +1,10 @@
+# ninja log v5
+8	108	1651596283398559269	CMakeFiles/ei.dir/src/ei_widget.c.o	cc50ae891382e732
+7	113	1651596283401559373	CMakeFiles/ei.dir/src/ei_application.c.o	effd25c564634037
+10	114	1651596283402559408	CMakeFiles/ei.dir/src/ei_geometrymanager.c.o	b0ad1cb3e0e14a4e
+11	116	1651596283400559338	CMakeFiles/frame.dir/tests/frame.c.o	8cde93a4df4c973f
+9	118	1651596283406559547	CMakeFiles/ei.dir/src/ei_event.c.o	aa614ab68880daa1
+118	164	1651596283452561144	libei.a	71e019c40feb1f0f
+164	898	1651596284185586593	frame	85597b814abe683b
+2	97	1651596336851415043	CMakeFiles/minimal.dir/tests/minimal.c.o	17faa717adbacabc
+101	283	1651596337036421467	minimal	c53b2e5760ac1f5d
